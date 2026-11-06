@@ -1,155 +1,102 @@
 # Hi, I'm Pranshul Sharma 👋
 
-### Smart Contract Developer | Solidity & EVM | Full-Stack Engineering
+### ⛓️ Smart Contract Developer | Solidity & EVM | Full-Stack Engineer
 
-**Software Developer at Zeeve | Blockchain & Web3 Development**
+**Turning complex ideas into secure smart contracts, scalable backend systems, and practical blockchain solutions.**
 
-I am a software developer with professional experience in **smart contract development, blockchain applications, and full-stack engineering**.
+I'm a software developer at **Zeeve**, with nearly **3 years of professional experience** across backend engineering, full-stack development, and blockchain technologies.
 
-My work spans Solidity smart contracts, EVM-based blockchain integrations, backend architecture, and production-oriented application development. I began my career working extensively with Python, Odoo, Node.js, and modern frontend technologies before expanding my focus into blockchain and smart contract engineering.
+My engineering journey has evolved from building and owning core backend systems to developing **Solidity smart contracts and EVM-based blockchain applications**.
 
-Currently, I am strengthening my expertise in **advanced Solidity, smart contract security, EVM architecture, and blockchain infrastructure**, with a focus on designing secure, reliable, and maintainable decentralized applications.
-
-My approach combines practical implementation, thorough testing, security awareness, and an understanding of how technical solutions support business requirements.
+I enjoy solving complex technical challenges, understanding the bigger picture behind requirements, and building solutions that are secure, reliable, and maintainable.
 
 ---
 
-## 💼 Professional Experience
+### 🚀 What I Bring to the Table
 
-### Software Developer | Zeeve
-**November 2023 – Present**
-
-Working across blockchain engineering, smart contract development, and full-stack applications.
-
-**Smart Contract & Blockchain Development**
-- Develop and integrate Solidity smart contracts for EVM-compatible blockchain applications.
-- Work with token contracts, access control, contract upgradeability, vesting mechanisms, and decentralized finance functionality.
-- Implement and test smart contract functionality using Hardhat and Foundry.
-- Work with smart contract security considerations, including authorization, reentrancy protection, transaction validation, and edge-case testing.
-- Contribute to blockchain integration workflows involving wallets, RPC endpoints, and external protocols.
-- Participate in technical analysis, requirement clarification, and solution design for blockchain-based applications.
-
-**Backend & Full-Stack Engineering**
-- Architected and developed backend functionality for Zeeve's platform using Python and Odoo.
-- Implemented subscription management, billing, service provisioning, and API integrations.
-- Contributed to migrating subscription workflows from Zoho to Odoo.
-- Developed backend APIs supporting multiple blockchain-related projects and node provisioning workflows.
-- Built blockchain monitoring integrations and dashboards for infrastructure visibility.
-- Worked with Next.js, React, TypeScript, PostgreSQL, and Node.js.
+- 🔗 **Blockchain Engineering:** Solidity smart contracts, EVM applications, token standards, and blockchain integrations.
+- 🛡️ **Security-First Development:** Access control, upgradeable contracts, signature verification, and smart contract testing.
+- 🏗️ **Backend Ownership:** Experience architecting backend systems and taking responsibility for critical product functionality.
+- 🧩 **Full-Stack Perspective:** Ability to connect smart contracts with backend services, APIs, databases, and frontend applications.
+- 🤝 **Problem-Solving & Collaboration:** Translating business requirements into technical solutions and collaborating across teams.
 
 ---
 
-## 🚀 Selected Project Experience
+### 🏆 An Engineering Milestone
 
-### Blockchain Infrastructure & Smart Contract Systems
-**Technologies:** Solidity, EVM, Hardhat, Foundry, Web3
+**Owned the Zoho-to-Odoo backend migration for Zeeve's core product.**
 
-Experience contributing to blockchain systems involving:
-- Smart contract-based token management and distribution
-- Vesting and beneficiary management
-- Role-based access control and authorization mechanisms
-- Upgradeable smart contract architectures
-- Staking, rewards, and decentralized infrastructure concepts
-- Blockchain interoperability and external protocol integrations
-- Smart contract testing, deployment, and validation
+A significant part of my professional journey has been taking ownership of Zeeve's backend migration and working on the architecture supporting **subscriptions, billing, service provisioning, and application integrations**.
 
-### DeFi & Financial Smart Contracts
-**Technologies:** Solidity, TypeScript, Hardhat
+This experience helped me grow beyond feature implementation into understanding system architecture, technical decisions, and end-to-end delivery.
 
-- Contributed to Solidity-based financial application logic.
-- Worked with secure asset handling and transaction validation.
-- Implemented and tested smart contract functionality with attention to gas efficiency and security.
-
-### Gold Tokenization Platform
-**Technologies:** Python, Odoo, Blockchain Integrations
-
-- Developed backend functionality supporting a gold tokenization application.
-- Integrated blockchain operations for token minting, auditing, and redemption.
-- Built APIs connecting application workflows with blockchain functionality.
-
-### Blockchain Node Sale Platform
-**Technologies:** Python, Odoo, TypeScript, Smart Contracts
-
-- Developed backend APIs for blockchain node sale workflows.
-- Integrated smart contract functionality with application services.
-- Worked with IPFS and wallet connectivity for decentralized application features.
-
-### Zeeve Platform Engineering
-**Technologies:** Python, Odoo, Node.js, Next.js, PostgreSQL
-
-- Developed backend architecture supporting subscriptions and blockchain infrastructure provisioning.
-- Built node and rollup sale workflows.
-- Integrated monitoring APIs and infrastructure dashboards.
-- Contributed to scalable backend services and application integrations.
+Today, I bring that same ownership mindset to **Solidity and blockchain engineering**, with an emphasis on security, reliability, and well-tested implementations.
 
 ---
 
-## 🛠️ Technical Skills
+### 🛠️ Technologies I Work With
 
-| Area | Technologies & Concepts |
-|---|---|
-| Smart Contract Development | Solidity, EVM, ERC-20, ERC-721, Smart Contract Architecture |
-| Smart Contract Security | Access Control, Reentrancy Protection, Signature Verification, Secure Contract Patterns |
-| Contract Architecture | Upgradeable Contracts, UUPS Proxies, OpenZeppelin |
-| Development & Testing | Hardhat, Foundry, Unit Testing, Deployment, Contract Verification |
-| Blockchain Development | Ethereum, EVM-Compatible Networks, Wallet Integrations, Web3 |
-| Backend Development | Python, Odoo, Node.js, Express.js |
-| Frontend Development | Next.js, React.js, TypeScript, JavaScript, Tailwind CSS |
-| Databases | PostgreSQL, SQL, MongoDB |
-| Tools & Infrastructure | Git, GitHub, Docker, REST APIs, RPC Integrations |
+**⛓️ Blockchain & Smart Contracts**
 
----
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-222222?style=for-the-badge&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logoColor=white)
 
-## 📚 Current Learning & Professional Development
+**⚙️ Backend & Databases**
 
-I continuously invest in expanding my technical knowledge and improving my ability to contribute to complex blockchain projects.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Advanced Solidity & Smart Contract Engineering — In Progress**
+**🎨 Frontend & Development Tools**
 
-- Advanced Solidity and EVM fundamentals
-- Smart contract architecture and design patterns
-- Contract security and vulnerability prevention
-- Upgradeable smart contracts and access control
-- Smart contract testing and deployment
-- Account abstraction and Ethereum development concepts
-
-**Hyperledger Besu — Planned**
-
-- Ethereum client architecture
-- Permissioned blockchain networks
-- Consensus and network configuration
-- Enterprise blockchain infrastructure
-- Private blockchain deployment and operations
-
-**Client Communication & Technical Collaboration — In Progress**
-
-- Translating business requirements into technical solutions
-- Technical discussions and requirement clarification
-- Explaining architecture and implementation trade-offs
-- Communicating risks, dependencies, and delivery progress
-- Presenting technical solutions to stakeholders
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🎯 Areas of Focus
+### 🌱 Currently Exploring & Growing
 
-- Solidity Smart Contract Development
-- Smart Contract Security & Testing
-- EVM-Based Blockchain Applications
-- DeFi & Tokenization
-- Smart Contract Architecture
-- Blockchain Infrastructure & Integrations
-- Enterprise Blockchain Technologies
-- Backend Engineering for Web3 Applications
+Technology keeps evolving, and so do I.
+
+- 🔐 **Advanced Solidity & Smart Contract Security** — Strengthening my knowledge of EVM internals, contract architecture, security patterns, and advanced development practices.
+- ⛓️ **Hyperledger Besu** — Preparing to explore permissioned Ethereum networks, enterprise blockchain architecture, and infrastructure.
+- 💬 **Technical Communication & Collaboration** — Developing stronger skills in requirement discussions, solution presentations, and stakeholder communication.
 
 ---
 
-## 🤝 Connect With Me
+### 🎯 What Excites Me
 
-I am interested in collaborating on blockchain engineering, Solidity smart contracts, EVM-based applications, and secure decentralized systems.
+I'm particularly interested in engineering challenges involving:
 
-- **GitHub:** [pranshulsharma-zeeve](https://github.com/pranshulsharma-zeeve)
-- **Organization:** Zeeve
-- **Email:** pranshul532@gmail.com
+`Smart Contract Architecture` · `DeFi` · `Tokenization` · `EVM` · `Blockchain Interoperability` · `Smart Contract Security` · `Enterprise Blockchain` · `Web3 Infrastructure`
 
-*Building secure, reliable, and scalable blockchain solutions.*
+I believe good engineering is not just about writing code. It's about understanding the problem, making thoughtful technical decisions, and delivering solutions people can rely on.
+
+---
+
+---
+
+### 📊 My GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pranshulsharma-zeeve&theme=github-dark-blue&hide_border=true)
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranshulsharma-zeeve&theme=github_dark)
+
+---
+
+### 🤝 Let's Connect!
+
+Always happy to connect with fellow developers, exchange ideas, and explore interesting engineering challenges.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranshulsharma-zeeve)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranshul532@gmail.com)
+
+*Keep learning. Build with purpose. Engineer for impact.* 🚀
